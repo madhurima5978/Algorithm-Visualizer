@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/madhurima5978/Algorithm-Visualizer/static/css/main.54ff1699.css",
+    "main.js": "/madhurima5978/Algorithm-Visualizer/static/js/main.5aee1223.js",
+    "static/js/453.ba9fe8ba.chunk.js": "/madhurima5978/Algorithm-Visualizer/static/js/453.ba9fe8ba.chunk.js",
+    "index.html": "/madhurima5978/Algorithm-Visualizer/index.html",
+    "main.54ff1699.css.map": "/madhurima5978/Algorithm-Visualizer/static/css/main.54ff1699.css.map",
+    "main.5aee1223.js.map": "/madhurima5978/Algorithm-Visualizer/static/js/main.5aee1223.js.map",
+    "453.ba9fe8ba.chunk.js.map": "/madhurima5978/Algorithm-Visualizer/static/js/453.ba9fe8ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54ff1699.css",
+    "static/js/main.5aee1223.js"
+  ]
+}
