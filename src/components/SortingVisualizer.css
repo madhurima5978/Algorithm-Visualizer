@@ -1,0 +1,44 @@
+.array-container {
+    /*display: flex;
+    justify-content: center;
+    align-self: center;*/
+    display: inline-block;
+    
+}
+
+.array-bar {
+    width: 10px;
+    background-color: pink;
+    display: inline-block;
+    margin: 0 1px;
+    margin-top: 100px;
+    border: 1px solid rgba(0, 0, 0, 0.1); /* Add a subtle border */
+    border-radius: 4px; /* Add some rounded corners */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2), inset 0 1px 2px rgba(255, 255, 255, 0.4); /* Add outer and inner shadows */
+    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.5), rgba(0, 0, 0, 0.1)); /* Add a vertical gradient */
+}
+
+.buttons{
+    display: flex;
+    padding: 10px;
+    justify-content: space-between;
+    width: 90%;
+    padding-left: 50px;
+    
+}
+.buttons button{
+    border: none;
+    background-image: linear-gradient(to bottom, white, rgb(255, 255, 255));
+    padding: 10px;
+    transition: 0.5s;
+    border-bottom: 2px solid;
+}
+.buttons button:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+    border-bottom: 2px solid rgb(255, 0, 0);
+    background-image: linear-gradient(to bottom, white, rgb(255, 172, 172));
+}
+.colorpicker{
+    display: none;
+}
